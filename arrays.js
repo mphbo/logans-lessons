@@ -20,12 +20,6 @@ for (const item of newArray) {
 
 // console.log(animal);
 
-// for in loop
-
-for (let key in animal) {
-  console.log(animal[key]);
-}
-
 // .forEach
 
 // .map()
